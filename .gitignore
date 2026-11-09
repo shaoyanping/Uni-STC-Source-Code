@@ -1,0 +1,8 @@
+
+# Large ResNet50 model weights
+Sim-source/resnet50/model/resnet50_weight/
+
+# Build outputs
+**/build/
+**/__pycache__/
+*.pyc
